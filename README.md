@@ -8,6 +8,8 @@ Problem: Many institutions use open-source software but the procurement process 
 - Any proprietary software licenses will need to give explicit approval before they can be used.
 - Code developed should be releasable if it serves the needs of the broader community.
 - Collaboration is never easy. However, if it is stated as one of the intended outcomes it is more likely to happen.
+- When evaluating tech solutions contractors will be encouraged to enhance existing modules, rather than build from scratch. Enhancements would be pushed upstream to improve the solutions for everyone.
+- Patches to existing modules will be contributed in the project's issue queue (ie. https://www.drupal.org/project/issues)
 
 # Sample language
 
