@@ -21,10 +21,9 @@ work created under this contract will be made available under the GNU Free
 Documentation License http://www.gnu.org/copyleft/fdl.html upon payment.
 
 
-###EXAMPLE 2. This text has been used in the Statements of Work for both
-analytical and software contracts:###
+###EXAMPLE 2. This text has been used in the Statements of Work for both analytical and software contracts:###
 
-By signing this Contract, the Contractor:
+**By signing this Contract, the Contractor**:
 
 Attests that any Foreground Information to be contributed shall be directly
 authored by himself or herself, such that he/she holds moral rights of
@@ -59,8 +58,8 @@ be read and respected by the contributor and clearly communicated to the
 Crown.
 
 Assigns unrestricted, independent, joint authors? rights (copyright) in the
-Foreground Information to the Crown in alignment with the TBS ?Policy on
-Title to Intellectual Property Arising Under Crown Procurement Contracts?
+Foreground Information to the Crown in alignment with the TBS 'Policy on
+Title to Intellectual Property Arising Under Crown Procurement Contracts'
 Appendix A, Part 1, Section 03, Paragraph 2. This means that
 notwithstanding the Contractor's ownership of intellectual rights in the
 Foreground Information the Crown also obtains unrestricted, independent,
@@ -80,8 +79,7 @@ extend to combined or derivative works involving contributions of Third
 Party rights holders except as the Third Party rights holders permit.
 
 
-###EXAMPLE 3. This text was received from a contractor, as per the assignment
-clause above.###
+###EXAMPLE 3. This text was received from a contractor, as per the assignment clause above.###
 
 In regards to the work that FirstName LastName performed in the project
 between March 12, 2009 to April 10th, 2009 (commitment # 601XXXX - DC/FC:
@@ -89,10 +87,9 @@ between March 12, 2009 to April 10th, 2009 (commitment # 601XXXX - DC/FC:
 authors? rights (copyright) in the Foreground Information to the Crown.
 
 
-###EXAMPLE 4. This text has been used for templates and components intended
-for implementation in any context:###
+###EXAMPLE 4. This text has been used for templates and components intended for implementation in any context:###
 
-Terms and Conditions of Use
+**Terms and Conditions of Use**
 
 Unless otherwise noted, computer program source code of the ProjectName is
 covered under Crown Copyright, Government of Canada, and is distributed
@@ -109,7 +106,7 @@ are asked to read the 3rd Party Licenses referenced with those assets.
 
 Copyright (c) 2011 Government of Canada
 
-MIT License
+**MIT License**
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the "Software"),
@@ -130,11 +127,7 @@ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 DEALINGS IN THE SOFTWARE.
 
 
-
-###EXAMPLE 5. This text has been used for whole applications where the Crown's
-business objective is to benefit from the subsequent simplicity of a
-unified licensing scheme, but also to leave the Contractor full choice as
-to its own later preferences.###
+###EXAMPLE 5. This text has been used for whole applications where the Crown's business objective is to benefit from the subsequent simplicity of a unified licensing scheme, but also to leave the Contractor full choice as to its own later preferences.###
 
 Licensing for Knowledge-Sharing and Inter-Organizational Learning.
 To operationalize knowledge-sharing and inter-organizational learning, both
@@ -166,6 +159,7 @@ through any other channel under any licenses they choose. The alternate
 licensing rights of each Contractor or Sub-Contractor in their own
 Foreground Information do not extend to the combined or derivative work of
 multiple copyright holders.
+
 Alternate Licensing by Government of Canada as the Joint Copyright
 Assignee. The Government of Canada is provided the authority, at its sole
 discretion, to re-license the ProjectName software, text, or graphics in
@@ -231,12 +225,12 @@ General Public License](www.gnu.org/copyleft/gpl.html)
    Perl is distribued by O'Reilly Media under the [Perl Artistic License](www.perl.com/pub/a/language/misc/artistic.html
 )
 
-Trade Name: The trade name ProjectName is owned by the Government of
+**Trade Name**: The trade name ProjectName is owned by the Government of
 Canada, and it cannot be used in the trade names of derivative works
 without the written permission of the ProjectName Project Manager on behalf
 of the Government of Canada.
 
-Limitation of Liability: In accordance with the TBS ?Policy on Decision
+**Limitation of Liability**: In accordance with the TBS ?Policy on Decision
 Making in Limiting Contractor Liability in Crown Procurement Contracts?
 (Annex 4, Model 2), the Parties agree that given the Government of Canada's
 business objective of facilitating knowledge-sharing and
