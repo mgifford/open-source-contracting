@@ -1,5 +1,7 @@
 ###What clauses have been used in contracts for free/libre/open works?###
 
+Under a CC-by licensing (CC-by 3.0 or a later version) to the Government of Canada's Treasury Board of Canada Secretariat.
+
 DISCLAIMER: The following clauses have been used in contracts issued by TBS
 for authoring free/libre/open work. The goal with the text below is to
 ensure that both the contractor and the Government of Canada are cleared to
@@ -9,7 +11,7 @@ and also check with your legal counsel on the most suitable terms to
 achieve those objectives.
 
 
-EXAMPLE 1. This text has been used for analytical reports:
+##EXAMPLE 1. This text has been used for analytical reports:##
 
 Intellectual rights under this contract are managed in conformance with the
 TBS Policy on Title to Intellectual Property Arising Under Crown
@@ -17,7 +19,6 @@ Procurement Contracts, (Appendix A: Contractor Owns)
 http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=13697?ion=text#secA.2. The
 work created under this contract will be made available under the GNU Free
 Documentation License http://www.gnu.org/copyleft/fdl.html upon payment.
-
 
 
 EXAMPLE 2. This text has been used in the Statements of Work for both
