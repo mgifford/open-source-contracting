@@ -1,8 +1,8 @@
-###What clauses have been used in contracts for free/libre/open works?###
+##What clauses have been used in contracts for free/libre/open works?##
 
 Under a CC-by licensing (CC-by 3.0 or a later version) to the Government of Canada's Treasury Board of Canada Secretariat.
 
-DISCLAIMER: The following clauses have been used in contracts issued by TBS
+**DISCLAIMER**: The following clauses have been used in contracts issued by TBS
 for authoring free/libre/open work. The goal with the text below is to
 ensure that both the contractor and the Government of Canada are cleared to
 adapt and redistribute the work. The wording here may or may not suit your
@@ -11,7 +11,7 @@ and also check with your legal counsel on the most suitable terms to
 achieve those objectives.
 
 
-##EXAMPLE 1. This text has been used for analytical reports:##
+###EXAMPLE 1. This text has been used for analytical reports:###
 
 Intellectual rights under this contract are managed in conformance with the
 TBS Policy on Title to Intellectual Property Arising Under Crown
@@ -21,8 +21,8 @@ work created under this contract will be made available under the GNU Free
 Documentation License http://www.gnu.org/copyleft/fdl.html upon payment.
 
 
-EXAMPLE 2. This text has been used in the Statements of Work for both
-analytical and software contracts:
+###EXAMPLE 2. This text has been used in the Statements of Work for both
+analytical and software contracts:###
 
 By signing this Contract, the Contractor:
 
@@ -80,8 +80,8 @@ extend to combined or derivative works involving contributions of Third
 Party rights holders except as the Third Party rights holders permit.
 
 
-EXAMPLE 3. This text was received from a contractor, as per the assignment
-clause above.
+###EXAMPLE 3. This text was received from a contractor, as per the assignment
+clause above.###
 
 In regards to the work that FirstName LastName performed in the project
 between March 12, 2009 to April 10th, 2009 (commitment # 601XXXX - DC/FC:
@@ -89,8 +89,8 @@ between March 12, 2009 to April 10th, 2009 (commitment # 601XXXX - DC/FC:
 authors? rights (copyright) in the Foreground Information to the Crown.
 
 
-EXAMPLE 4. This text has been used for templates and components intended
-for implementation in any context:
+###EXAMPLE 4. This text has been used for templates and components intended
+for implementation in any context:###
 
 Terms and Conditions of Use
 
@@ -101,8 +101,7 @@ under the MIT License.
 The Canada wordmark and related graphics associated with this distribution
 are protected under trademark law and copyright law. No permission is
 granted to use them outside the parameters of the Government of Canada's
-corporate identity program. For more information, see
-http://www.tbs-sct.gc.ca/fip-pcim/index-eng.asp
+corporate identity program. [For more information](http://www.tbs-sct.gc.ca/fip-pcim/index-eng.asp).
 
 Copyright title to all 3rd party software distributed with the ProjectName
 is held by the respective copyright holders as noted in those files. Users
@@ -132,10 +131,10 @@ DEALINGS IN THE SOFTWARE.
 
 
 
-EXAMPLE 5. This text has been used for whole applications where the Crown's
+###EXAMPLE 5. This text has been used for whole applications where the Crown's
 business objective is to benefit from the subsequent simplicity of a
 unified licensing scheme, but also to leave the Contractor full choice as
-to its own later preferences.
+to its own later preferences.###
 
 Licensing for Knowledge-Sharing and Inter-Organizational Learning.
 To operationalize knowledge-sharing and inter-organizational learning, both
@@ -150,11 +149,11 @@ ProjectName software, text and graphics:
 
    Descriptive Text and Architectural Graphics that are created for the
 ProjectName Project are for publication and distribution under the Version
-1.2 of the GNU Free Documentation License www.gnu.org/copyleft/fdl.html
+1.2 of the [GNU Free Documentation License](www.gnu.org/copyleft/fdl.html) 
 (GNU-FDL).
    Programming Code of the ProjectName Project is for publication and
-distribution under Version 2 the GNU General Public License
-www.gnu.org/copyleft/gpl.html (GNU-GPL).
+distribution under Version 2 the [GNU General Public License](www.gnu.org/copyleft/gpl.html)
+ (GNU-GPL).
    Work that Is Both Programming Code and Descriptive, such as descriptive
 comments in the source code that are not executable, as well as source-code
 samples that are used in ProjectName documentation, are to be published and
@@ -224,14 +223,13 @@ Externally-Acquired Software. The terms and conditions of externally
 acquired software that is used to create and operate the ProjectName
 Reference Implementation shall be read and respected by each team member:
 
-   PostgreSQL is distributed by the PostgreSQL Global Development Group
-under the BSD License www.opensource.org/licenses/bsd-license.php
-   R and R-Project are distributed by the R Foundation under the GNU
-General Public License www.gnu.org/copyleft/gpl.html
-   PHP is distributed by the PHP Group under the PHP License
-www.opensource.org/licenses/php
-   Perl is distribued by O'Reilly Media under the Perl Artistic License
-www.perl.com/pub/a/language/misc/artistic.html
+   PostgreSQL is distributed by the [PostgreSQL Global Development Group
+under the BSD License](www.opensource.org/licenses/bsd-license.php)
+   R and R-Project are distributed by the R Foundation under the [GNU
+General Public License](www.gnu.org/copyleft/gpl.html)
+   PHP is distributed by the PHP Group under the [PHP License](www.opensource.org/licenses/php)
+   Perl is distribued by O'Reilly Media under the [Perl Artistic License](www.perl.com/pub/a/language/misc/artistic.html
+)
 
 Trade Name: The trade name ProjectName is owned by the Government of
 Canada, and it cannot be used in the trade names of derivative works
@@ -251,8 +249,8 @@ present agreement does NOT include supply by the Contractor or
 Sub-Contractor of financial services (such such as warranties, insurance,
 and indemnifications) to the Government of Canada, directly, indirectly or
 by implication.
-Reference:
-http://www.tbs-sct.gc.ca/pubs_pol/dcgpubs/Contracting/dmlc-pdlr-PR_e.asp?printable=True
+**[Reference](http://www.tbs-sct.gc.ca/pubs_pol/dcgpubs/Contracting/dmlc-pdlr-PR_e.asp?printable=True
+)**
 
 Right or Authorization to Contribute. Suppliers shall only make
 Contributions to the ProjectName Project that they and the Government of
