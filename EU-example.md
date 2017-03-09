@@ -45,37 +45,25 @@ mandatory.
 #### Open source requirements ####
 
 The following text could be included.
-The ownership of the supplied software, including all
-associated intellectual property rights, is to be
-transferred to the contracting agency with no restrictions on what the contracting agency may do with it ^23^ ; OR, the software is to be supplied to the contracting agency
-under the following terms and conditions: 
-1. the software may be used by the agency for any
-purpose the agency sees fit
 
-2. the contractor will provide the complete source
-code and documentation for the software so that
-the software can be studied by the contracting
-agency or any third party or parties of its choice
+_The ownership of the supplied software, including all associated intellectual property rights, is to be transferred to the contracting agency with no restrictions on what the contracting agency may do with it ^23^ ; OR, the software is to be supplied to the contracting agency under the following terms and conditions:_
 
-3. the software may be modified by the contracting
-agency or any third party or parties of its choice
+_1. the software may be used by the agency for any purpose the agency sees fit_
 
-4. the contracting agency may distribute the
-software, with source code and modifications, to
-any party of its choice, under terms and
-conditions allowing such parties the same
-freedoms retained by the contracting agency, as
-described above, to use, study, modify and
-redistribute the software.
+_2. the contractor will provide the complete source code and documentation for the software so that the software can be studied by the contracting agency or any third party or parties of its choice_
 
-If the supplied software is required to be open source
+_3. the software may be modified by the contracting agency or any third party or parties of its choice_
+
+_4. the contracting agency may distribute the software, with source code and modifications, to any party of its choice, under terms and conditions allowing such parties the same freedoms retained by the contracting agency, as described above, to use, study, modify and redistribute the software._
+
+#### If the supplied software is required to be open source ####
+
 The open source requirements as shown above should be
 included in the contract documents (cahier de charges) 
 or contract subject matter description as mandatory
 requirements.
 
-If the supplied software is preferred but not required to be open
-source
+#### If the supplied software is preferred but not required to be open source ####
 
 The open source requirements should be included as a
 weighted award criterion. A weighting/scoring system
