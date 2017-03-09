@@ -226,9 +226,11 @@ being weighted.
 
 
 
-<sup>23</sup> - While a transfer of rights to the acquirer is not the same as an open source licence, it fulfils
+
+
+_<sup>23</sup> - While a transfer of rights to the acquirer is not the same as an open source licence, it fulfils
 the same procurement requirements; this follows the principle of this guideline that tender
 terms follow the requirements of the procuring agency, and open source follows from these
 requirements. Of course, if a procuring agency acquires all rights to the software, it is free to
 release the software as open source so that other public agencies (among others) share the
-benefits. 
+benefits._
