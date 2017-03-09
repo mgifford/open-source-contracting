@@ -2,7 +2,7 @@
 
 https://techfarhub.cio.gov/assets/files/Agile%20Task%20Order%20Example.docx
 
-## 4.7 Contractor Use of Commercial Computer Software, Including Open Source Software ## 
+## 4.7 Contractor Use of Commercial Computer Software, Including Open Source Software
 
 Open source software is often licensed under terms that require a user to make user’s modifications to the open source software or any software that the user combines with the open source software freely available in source code form pursuant to distribution obligations in the license. In cases where the Contractor proposes to use the open source software while performing under this Task Order, regardless of whether the open source software is delivered, the Contractor shall not create, or purport to create, any Government distribution obligation with respect to Government computer software deliverables. Prior to using any commercial computer software, including open source software which is considered commercial computer software, the Contractor shall evaluate each license for commercial computer software, and confirm that each of the following requirements is satisfied:
 
