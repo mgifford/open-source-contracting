@@ -10,6 +10,7 @@ Problem: Many institutions use open-source software but the procurement process 
 - Collaboration is never easy. However, if it is stated as one of the intended outcomes it is more likely to happen.
 - When evaluating tech solutions contractors will be encouraged to enhance existing modules, rather than build from scratch. Enhancements would be pushed upstream to improve the solutions for everyone.
 - Patches to existing modules will be contributed in the project's issue queue (ie. https://www.drupal.org/project/issues)
+- Client must be informed if any customizations to Core or Contributed Modules will cause problems with upgrades.
 
 ##Contribution vs Contracting##
 
