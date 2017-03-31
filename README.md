@@ -13,6 +13,7 @@ Problem: Many institutions use open-source software but the procurement process 
 - Client must be informed if any customizations to Core or Contributed Modules will cause problems with upgrades.
 - As with all open-source licenses, the software does not come with a guarantee or no warranty comes with it.
 - Vendor solution should have developing open-source products as their primary business
+- Selection processes should favour bids that have developers who can demonstrate that they have contributed back to the open-source community. 
 
 ## Contribution vs Contracting
 
