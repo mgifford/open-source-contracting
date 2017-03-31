@@ -12,6 +12,7 @@ Problem: Many institutions use open-source software but the procurement process 
 - Patches to existing modules will be contributed in the project's issue queue (ie. https://www.drupal.org/project/issues)
 - Client must be informed if any customizations to Core or Contributed Modules will cause problems with upgrades.
 - As with all open-source licenses, the software does not come with a guarantee or no warranty comes with it.
+- Vendor solution should have developing open-source products as their primary business
 
 ## Contribution vs Contracting
 
