@@ -14,6 +14,7 @@ Problem: Many institutions use open-source software but the procurement process 
 - As with all open-source licenses, the software does not come with a guarantee or no warranty comes with it.
 - Vendor solution should have developing open-source products as their primary business
 - Selection processes should favour bids that have developers who can demonstrate that they have contributed back to the open-source community. 
+- The software "what" (ie. Drupal) is often dealt with in procurement, without mentioning the "how" (with open-source approaches). Make sure both are addressed.
 
 ## Contribution vs Contracting
 
