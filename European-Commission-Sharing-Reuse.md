@@ -9,6 +9,7 @@ There is a lot of value in this document, but highlighting elements focused on o
 Uncertainty  with  regard  to  the  liability  exposure  of  relevant  stakeholders  and  
 the  infringement  of  property  rights  assigned  through,  for  example,  copyright  
 and patents, negatively impact the sharing and reuse of IT solutions.
+
 In  order  to  reduce  the  degree  of  legal  uncertainty  about  intellectual  property  
 rights’  limitations  and  exceptions,  public  administrations  are  encouraged  to  
 follow the recommendations listed below.
@@ -65,10 +66,8 @@ of specific tools.
 
 Recommended measures for central bodies
 - Select and promote the use of appropriate licences
-To  enable  the  reuse  of  IT  solutions,  central  bodies  should  select  appropriate  
-licences and licence templates, and promote their use.
-- Provide support on matters related to intellectual 
-property rights and licensing
+To  enable  the  reuse  of  IT  solutions,  central  bodies  should  select  appropriate  licences and licence templates, and promote their use.
+- Provide support on matters related to intellectual property rights and licensing
 By providing practical advice in these areas, central bodies can support public 
 administrations  dealing  with  intellectual  property  rights  and  licensing  issues  
 related to the sharing and reuse of IT solutions. This may include, for example, 
@@ -85,10 +84,8 @@ data  formats  or  they  simply  underestimate  the  benefits  of  relying  on
 open specifications and standards. 
 
 This situation often results in poor procurement practices limiting competition, such as:
-- referencing  non-standard  specifications,  which  only  a  few  vendors  know  
-about and can comply with;
-- referencing  specific  sources,  trademarks,  patents,  etc.,  favouring  certain  
-companies or products.
+- referencing  non-standard  specifications,  which  only  a  few  vendors  know about and can comply with;
+- referencing  specific  sources,  trademarks,  patents,  etc.,  favouring  certain  companies or products.
 
 These practices sometimes result in one vendor providing critical systems for many 
 years and subsequently being difficult to move away from. Such vendor lock-in is 
@@ -96,9 +93,7 @@ estimated to cost European public administrations € 1.1 billion a year. Aside 
 increasing costs, it reduces the available vendor base, excludes new and innovative 
 companies from providing alternative solutions and causes the market to stagnate.
 
-### 5.1. 
-Use common standards and 
-specifications in IT procurement
+### 5.1. Use common standards and specifications in IT procurement
 Using standards and open specifications is crucial to avoid vendor lock-in. In the 
 context  of  IT  procurement,  public  administrations  should  consider  referencing  
 European  and  national  standards  or  international  IT  specifications
