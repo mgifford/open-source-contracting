@@ -2,7 +2,7 @@
 
 Problem: Many institutions use open-source software but the procurement process generally restricts collaboration and participation. By adding these elements to boiler-plate contracts we hope that we can encourage better practices that support more effective engagement with the community that builds/maintains the code.
 
-## Principals
+## Principles
 - By default all work will be under an open license. Where possible adopt the license of the parent project. 
 - External contractors will work with internal IT staff where possible to exchange knowledge & transfer responsibilities.
 - Any proprietary software licenses will need to give explicit approval before they can be used.
@@ -20,7 +20,7 @@ Problem: Many institutions use open-source software but the procurement process 
 
 There are many open-source projects which take on contributions and so therefore need an agreement for the license of those contributions. The Fedora Project of RedHat came up with this [Fedora Project Contributor Agreement](https://fedoraproject.org/wiki/Legal:Fedora_Project_Contributor_Agreement?rd=Legal:FPCA) as a model. 
 
-Many contracts however are for larger pieces of work and not descrete code checkins that are tied to an already existing open-source project.  
+Many contracts however are for larger pieces of work and not discrete code checkins that are tied to an already existing open-source project.  
 
 ## Sample language
 
