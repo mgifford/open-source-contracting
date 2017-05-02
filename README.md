@@ -25,3 +25,5 @@ Many contracts however are for larger pieces of work and not discrete code check
 ## Sample language
 
 All software we develop through this contract will be the copyright of [Company X] and licensed under the GNU Public License (GPL) to ensure that the software may be freely used, modified and distributed. Any documentation provided by [Company X] will be similarly licensed under the Creative Commons Share-alike License.
+
+Client accepts and agrees that all developed software will automatically be licensed under the most permissive open license used by software it is integrated into and can be freely distributable. Client acknowledges that they are receiving a substantial cost savings through Vendors use of open source software and this recriprocal license is in clients best interests overall. 
