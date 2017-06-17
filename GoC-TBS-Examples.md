@@ -1,4 +1,4 @@
-##What clauses have been used in contracts for free/libre/open works?##
+### What clauses have been used in contracts for free/libre/open works?
 
 Under a CC-by licensing (CC-by 3.0 or a later version) to the Government of Canada's Treasury Board of Canada Secretariat.
 
@@ -11,7 +11,7 @@ and also check with your legal counsel on the most suitable terms to
 achieve those objectives.
 
 
-###EXAMPLE 1. This text has been used for analytical reports:###
+### EXAMPLE 1. This text has been used for analytical reports:
 
 Intellectual rights under this contract are managed in conformance with the
 TBS Policy on Title to Intellectual Property Arising Under Crown
@@ -21,7 +21,7 @@ work created under this contract will be made available under the GNU Free
 Documentation License http://www.gnu.org/copyleft/fdl.html upon payment.
 
 
-###EXAMPLE 2. This text has been used in the Statements of Work for both analytical and software contracts:###
+### EXAMPLE 2. This text has been used in the Statements of Work for both analytical and software contracts:
 
 **By signing this Contract, the Contractor**:
 
@@ -79,7 +79,7 @@ extend to combined or derivative works involving contributions of Third
 Party rights holders except as the Third Party rights holders permit.
 
 
-###EXAMPLE 3. This text was received from a contractor, as per the assignment clause above.###
+### EXAMPLE 3. This text was received from a contractor, as per the assignment clause above.
 
 In regards to the work that FirstName LastName performed in the project
 between March 12, 2009 to April 10th, 2009 (commitment # 601XXXX - DC/FC:
@@ -87,7 +87,7 @@ between March 12, 2009 to April 10th, 2009 (commitment # 601XXXX - DC/FC:
 authors? rights (copyright) in the Foreground Information to the Crown.
 
 
-###EXAMPLE 4. This text has been used for templates and components intended for implementation in any context:###
+### EXAMPLE 4. This text has been used for templates and components intended for implementation in any context:
 
 **Terms and Conditions of Use**
 
@@ -127,7 +127,7 @@ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 DEALINGS IN THE SOFTWARE.
 
 
-###EXAMPLE 5. This text has been used for whole applications where the Crown's business objective is to benefit from the subsequent simplicity of a unified licensing scheme, but also to leave the Contractor full choice as to its own later preferences.###
+### EXAMPLE 5. This text has been used for whole applications where the Crown's business objective is to benefit from the subsequent simplicity of a unified licensing scheme, but also to leave the Contractor full choice as to its own later preferences.
 
 Licensing for Knowledge-Sharing and Inter-Organizational Learning.
 To operationalize knowledge-sharing and inter-organizational learning, both
