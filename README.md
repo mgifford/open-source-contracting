@@ -25,16 +25,18 @@ Problem: Many institutions use open source software. Unfortunately, the procurem
 - Contests and hackathons can be useful to generate interest, or seek out new players, but cannot be relied upon. In general they are only useful for short-term sprints. 
 
 
-## Tactics - Largely from https://gds-operations.github.io/guidelines/
+## Tactics 
+
+Initially from the GDS from https://gds-operations.github.io/guidelines/
 
 ### Projects MUST:
- - include a README
+ - include a README with a meaningful description of the project written in a human readable language.
  - include useful and informative commit messages about why a change was made
  - include a CHANGELOG (see [example](https://metacpan.org/pod/CPAN::Changes::Spec))
  - include a valid Open Source LICENSE file (see [example](https://opensource.org/licenses))
  - provide a link to a public list of known issues and bugs
  - provide an email address to send security related bug reports to
- - provide a version number compatible with Semantic Versioning
+ - provide a version number compatible with [Semantic Versioning](http://semver.org/spec/v2.0.0.html)
 
 ### Projects SHOULD:
  - publish packages to relevant language specific repositories such as PyPi, Ruby Gems, NPM, Puppet Forge, etc.
@@ -42,9 +44,10 @@ Problem: Many institutions use open source software. Unfortunately, the procurem
  - set up any tests to run in a public continuous integration environment
 
 ### Projects MAY:
- - include a CONTRIBUTORS file (see example)
+ - include a CONTRIBUTORS file (see [example](https://golang.org/CONTRIBUTORS))
  - provide a mailing list for discussion of the project
-
+ - include information about which people or organizations are supporting the project (see [example](https://www.drupal.org/project/redhen))
+ - include links to demonstation sites where the code is being used
 
 ## Contribution vs Contracting
 
