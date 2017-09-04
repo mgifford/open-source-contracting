@@ -28,14 +28,17 @@
 
 ## Timelines
 - Government publishes an RFP with ballpark budget and a 3-4 week window for responses
+- RFPs need to be SMART (specific, measurable, achievable, realistic and time-bound)
 - Vendor questions are discussed in a public issue queue
 - Vendors (including individuals) login to central hub and submit bids through an online form with only text submissions
-- 2-3 people make a selection by reviewing cost, reputation and quality of the response submitted
-- 
+- Small selection team make decisions by reviewing cost, reputation and quality of the response submitted
+- Minimum of 5 bids submissions allowed. Extremes (upper & lower bids) are removed.
+- Project is implemented & reviewed (possibly by competitor)
+- Feedback is collected and added to reputation system
 
 ## Immediate results
-- upstream fixes
-- community review of the code
+- Upstream fixes
+- Community review of the code
 
 ## Leveraging existing software projects
 - Upgrade modules/plug-ins to the latest release
@@ -44,4 +47,4 @@
 - Performance improvements on modules/plug-ins
 - User research on system
 - Accessibility enhancments on modules/themes
-- 
+- Reviewing prior projects
