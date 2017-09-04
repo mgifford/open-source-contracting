@@ -8,6 +8,7 @@
 - The client will select a general coding standard - https://www.drupal.org/docs/develop/standards
 - Government departments want minimal responsibility for maintaining code developed by contractors
 - Maintaining a vibrant ecosystem of open source developers is more important than seeing that each RFP has a maximized ROI.
+- It will take many iterations before government can write RFPs that are specific enough and that there is a community of developers who are able to drive enough business to justify ongoing involvement in this ecosystem.
 
 ## Assumptions for vendors
 - Individuals and teams working on the project will be made public
@@ -23,6 +24,7 @@
 - The process will be iterative and be driven by data. Contracts need to be small and predictable enough that it is worth everyone's while to be involved.
 - Dozens of contracts are needed with at least ten contractors before you can change the ecosystem inside & outside of government
 - Vendors can get "bonus points" for cleaning up unknown problems which weren't known at discovery
+- Commit messages will be reviewed againt the code committed
 
 ## Ongoing Government Committment
 - Keep live repository of project in a public location
@@ -37,13 +39,15 @@
 - Vendors (including individuals) login to central hub and submit bids through an online form with only text submissions
 - Small selection team make decisions by reviewing cost, reputation and quality of the response submitted
 - Minimum of 5 bids submissions allowed. Extremes (upper & lower bids) are removed.
+- It is better to have multiple vendors active at any one time to avoid vendor biases
 - Project is implemented & reviewed (possibly by competitor)
 - Feedback is collected and added to reputation system
 
 ## Immediate results
-- Upstream fixes
+- Upstream fixes to established projects
 - Community review of the code
 - Government learns to write better RFPs
+- Growth of understanding about software development process
 
 ## Leveraging existing software projects
 - Upgrade modules/plug-ins to the latest release
