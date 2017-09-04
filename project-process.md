@@ -7,11 +7,14 @@
 - All patches are stored in a central repository and where relevant contributed upstream so that they are easily trackable
 - The client will select a general coding standard - https://www.drupal.org/docs/develop/standards
 - Government departments want minimal responsibility for maintaining code developed by contractors
+- Maintaining a vibrant ecosystem of open source developers is more important than seeing that each RFP has a maximized ROI.
 
 ## Assumptions for vendors
 - Individuals and teams working on the project will be made public
 - Commits will be made by the individual working on the project
 - Company/individual will "own" the open source code produced
+- The RFP process will be minimized so that project managers and developers can effectively respond to the outlined expectations
+- No more than 10% of the time to complete the project should be required to effectively win the bid
 
 ## Building a reputation system for effective procurement
 - Teams will be graded based on their ability to deliver. Timelines, budget code quality will be evaluated at the end of the process.
@@ -28,6 +31,7 @@
 
 ## Timelines
 - Government publishes an RFP with ballpark budget and a 3-4 week window for responses
+- Everyone gets to anonymously grade the RFP based on how achievable it is
 - RFPs need to be SMART (specific, measurable, achievable, realistic and time-bound)
 - Vendor questions are discussed in a public issue queue
 - Vendors (including individuals) login to central hub and submit bids through an online form with only text submissions
@@ -39,6 +43,7 @@
 ## Immediate results
 - Upstream fixes
 - Community review of the code
+- Government learns to write better RFPs
 
 ## Leveraging existing software projects
 - Upgrade modules/plug-ins to the latest release
