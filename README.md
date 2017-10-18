@@ -56,8 +56,9 @@ There are many open source projects which take on contributions and so therefore
 Many contracts are for larger pieces of work and not discrete code checkins.  
 
 ## Links
-- UK GDS Operations Open Source https://gds-operations.github.io/guidelines/
-- USA 18F Official Open Source Policy https://github.com/18F/open-source-policy/blob/master/policy.md
+- [UK GDS Operations Open Source](https://gds-operations.github.io/guidelines/)
+- [USA 18F Official Open Source Policy](https://github.com/18F/open-source-policy/blob/master/policy.md)
+- [Skylight Digital's Public Domain Procurement Blog](https://skylight.digital/blog/public-domain-procurement/)
 
 
 ## Sample language
