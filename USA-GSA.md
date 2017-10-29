@@ -1,5 +1,7 @@
 # The General Services Administration (GSA) Request for Quotation (RFQ)
 
+https://ads.18f.gov/assets/ADS_RFQ_Final.pdf
+
 ## 15.0 DATA RIGHTS AND OWNERSHIP OF DELIVERABLES
 
 The specific terms and conditions governing data rights and ownership of deliverables shall be specified in each respective task order under this BPA. The remaining subparagraphs in this
