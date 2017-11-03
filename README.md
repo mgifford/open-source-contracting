@@ -60,6 +60,7 @@ Many contracts are for larger pieces of work and not discrete code checkins.
 - [USA 18F - Official Open Source Policy](https://github.com/18F/open-source-policy/blob/master/policy.md)
 - [USA 18F - Procurement Blog Post](https://18f.gsa.gov/2017/10/11/pulling-back-the-curtain-on-it-procurement/)
 - [USA 18F - Modular Contracting](https://modularcontracting.18f.gov/)
+- [USA 18F - Agile Delivery Services Blanket Purchase Agreement](https://ads.18f.gov/)
 - [Skylight Digital's Public Domain Procurement Blog](https://skylight.digital/blog/public-domain-procurement/)
 
 
