@@ -63,7 +63,7 @@ Many contracts are for larger pieces of work and not discrete code checkins.
 - [USA 18F - Agile Delivery Services Blanket Purchase Agreement](https://ads.18f.gov/)
 - [USA 18F -  Micro-purchase Beta (A marketplace for open source work)](https://micropurchase.18f.gov/)
 - [Skylight Digital's Public Domain Procurement Blog](https://skylight.digital/blog/public-domain-procurement/)
-
+- [Montreal: Policy Concerning the Use & Development of Open Source Software & Hardware](https://github.com/VilledeMontreal/politique-libre/blob/master/Politique/PolitiqueDuLibre.md)
 
 ## Sample language
 
