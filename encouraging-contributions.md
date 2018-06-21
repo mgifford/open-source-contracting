@@ -8,6 +8,7 @@ A checklist of items and guides for contributing back.
 - If there is a crowd-funding appeal for the open source tools that you use, find a way to contribute.
 - Talk about the open source tools that you use and spread the word about how they help you.
 - If there is an association supporting the open source tools you use, join it. The membership fee is usually trivial. It helps.
+- Make sure staff know how to [attribute their contributions and there is a clear policy for this](https://disic.github.io/politique-de-contribution-open-source/en/ouverture/#contribution-policy-assistance)
 
 - [Our Philosophy on Contributing to the Open Source Community — and How You Can Too](https://medium.com/open-collective/our-philosophy-on-contributing-to-the-open-source-community-and-how-you-can-too-4b0d10637f41)
 [Every government in the world should contribute to the Core Infrastructure Initiative](https://www.coreinfrastructure.org/)
