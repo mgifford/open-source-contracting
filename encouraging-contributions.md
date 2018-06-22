@@ -13,3 +13,4 @@ A checklist of items and guides for contributing back.
 
 - [Our Philosophy on Contributing to the Open Source Community — and How You Can Too](https://medium.com/open-collective/our-philosophy-on-contributing-to-the-open-source-community-and-how-you-can-too-4b0d10637f41)
 [Every government in the world should contribute to the Core Infrastructure Initiative](https://www.coreinfrastructure.org/)
+- [Canada's Draft requirements on open source contributions](https://github.com/canada-ca/open-source-contribution-logiciel-libre)
